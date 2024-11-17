@@ -3,7 +3,7 @@
 # Submission Date: 11/17/2024
 # Lab 09
 # Lab Section: 14
-# Sources, people worked with, help given to:
+# Sources, people worked with, help given to: John Jones
 # Your
 # Comments
 # Here
